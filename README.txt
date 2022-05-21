@@ -1,0 +1,1 @@
+Site de uma pousada imaginaria com layout responsivo no CSS utilizando apenas as propriedades do Flexbox.
